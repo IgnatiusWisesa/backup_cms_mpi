@@ -1,7 +1,7 @@
 import { getModelToken } from '@nestjs/mongoose';
 import { Test, TestingModule } from '@nestjs/testing';
 import { CategoryService } from './category.service';
-import { ArrayOfObjecCategory, CategoryPayload, CategoryPayloadService, MockId, StringMockId, SuccsessCreateCategory, SuccsessGetCategoryById, SuccsessUpdateCategory } from './mocks/category-payload.mocks';
+import { ArrayOfObjecCategory, CategoryPayloadService, MockId, StringMockId, SuccsessCreateCategory, SuccsessGetCategoryById, SuccsessUpdateCategory } from './mocks/category-payload.mocks';
 import { CategoryServiceMock } from './mocks/category-service.mocks';
 import { Category } from './schema/category.schema';
 

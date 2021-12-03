@@ -5,7 +5,6 @@ import { CapabilityService } from './capability.service';
 import {
   ArrayOfObjectCapability,
   CapabilityPayload,
-  CapabilityPayloadSmallName,
   SuccsessCreateCapability,
   SuccsessGetCapabilityById,
   SuccsessUpdateCapability,

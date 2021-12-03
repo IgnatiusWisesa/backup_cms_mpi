@@ -1,7 +1,6 @@
 import {
   ArrayOfObjecCategory,
   SuccsessCreateCategory,
-  SuccsessCreateCategoryWithNoParent,
 } from './category-payload.mocks';
 
 export const CategoryServiceMock = {
